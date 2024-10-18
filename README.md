@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @alpha-sml
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning Computer Science and AI
+- 💞️ I’m looking to collaborate on FOSS
+- 📫 How to reach me: sml.atharva.14@gmail.com
+- 😄 Pronouns: He/Him
