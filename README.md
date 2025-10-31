@@ -1,39 +1,21 @@
-# 👋 Hi there, I'm Atharv (@alpha-sml)
+# 👋 Hi, I'm Atharv (@alpha-sml)
 
 ## 🚀 About Me
-I'm a technology enthusiast passionate about **Computer Science** and **Artificial Intelligence**. Currently diving deeper into AI and modern web development, I enjoy exploring new technologies and contributing to innovative projects.
+Tech enthusiast exploring **AI** and **Full-Stack Web Development**. I love building projects, learning new tools, and contributing to open source.
 
-- 🌱 **Learning:** Artificial Intelligence, Machine Learning, and Full-Stack Web Development
-- 💼 **Seeking Collaboration:** Open to working on **Free and Open Source Software (FOSS)** and impactful tech projects
-- 💡 **Interests:** Technology trends, AI research, open-source contributions, and community engagement
+- 🌱 Learning: AI, ML, Web Dev
+- 💼 Open to: FOSS & collaboration
 
-## 💻 Skills & Tools
+## 💻 Skills
 
-**Programming Languages**
-- Python  
-- JavaScript  
-- HTML & CSS  
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frontend:** React, Next.js  
+- **Backend:** Express.js, REST / HTTP Model  
+- **Database & ORM:** MySQL, Prisma  
+- **CS Foundations:** Data Structures & Algorithms  
+- **Tools:** Git, VS Code, PyCharm  
 
-**Frameworks & Libraries**
-- React  
-- Next.js  
-- Express.js  
+## 📫 Contact
+**Email:** sml.atharva.14@gmail.com
 
-**Databases & ORM**
-- MySQL  
-- Prisma ORM  
-
-**Core CS Concepts**
-- Data Structures & Algorithms (DSA)  
-- HTTP Model & REST APIs  
-
-**Developer Tools**
-- Git  
-- VS Code  
-- PyCharm  
-
-## 📫 Get in Touch
-- 📧 Email: **sml.atharva.14@gmail.com**
-
-## 🌐 Let's Connect
-Always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
+Always happy to connect or collaborate!
