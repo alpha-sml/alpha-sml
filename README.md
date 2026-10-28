@@ -1,25 +1,26 @@
-<!-- Animated gradient header — deliberately no wave banners -->
+<!-- Terminal-style identity: JetBrains Mono, transparent background, no banner -->
 <p align="center">
+  <code>&gt; whoami</code>
+  <br />
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=165&text=ATHARV%20SHARMA&fontSize=44&fontColor=FFFFFF&fontAlignY=52&animation=twinkling&color=0:0F172A,35:6D28D9,70:0891B2,100:0F172A"
-    width="100%"
-    alt="Atharv Sharma — animated gradient header"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=64&repeat=false&letterSpacing=2px&lines=ATHARV_SHARMA"
+    alt="ATHARV SHARMA typed in a terminal-style JetBrains Mono font"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=Computer+Science+%26+AI;Building+Reliable+AI+Systems;Machine+Learning+%7C+Causal+Reasoning;AI+Engineering+%7C+Research+Interests"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2300&pause=850&color=A78BFA&center=true&vCenter=true&width=780&height=42&lines=COMPUTER+SCIENCE+%26+AI;BUILDING+RELIABLE+AI+SYSTEMS;MACHINE+LEARNING+%7C+CAUSAL+REASONING;AI+ENGINEERING+%7C+RESEARCH+INTERESTS"
     alt="Computer Science and AI | Reliable AI systems | Machine learning and causal reasoning"
   />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-sharma-703735317/">
-    <img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/alpha-sml">
-    <img src="https://img.shields.io/badge/GitHub-alpha--sml-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-alpha--sml-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -29,50 +30,43 @@
   <img src="https://img.shields.io/badge/BUILDING-PYTHON%20SYSTEMS-F59E0B?style=flat-square" alt="Building Python systems" />
 </p>
 
-✦ About Me
-I'm a Computer Science and AI student interested in building dependable AI systems and exploring machine learning, causal inference, and neuro-symbolic reasoning. I enjoy the engineering behind making AI useful: designing system behavior, creating reliable tooling, and verifying results rather than relying on completion claims alone.
-🚀 Selected Work
-<!--
-GitHub Stats Extended is used for these repository cards instead of the original
-GitHub Readme Stats endpoint. The original pin cards cache for up to 10 days,
-which can leave newly added repository descriptions displaying as "No description
-provided". GitHub Stats Extended is the actively maintained successor and is
-compatible with the original card URL parameters.
--->
+> whoami
+I'm a Computer Science and AI student interested in building dependable AI systems and exploring machine learning, causal inference, and neuro-symbolic reasoning. I enjoy the engineering behind making AI useful: designing system behavior, building reliable tooling, and verifying results rather than relying on completion claims alone.
+> selected_projects
 <p align="center">
   <a href="https://github.com/alpha-sml/Cody">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=alpha-sml&repo=Cody&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3"
       width="49%"
-      alt="Cody repository card with its description, language, stars, and forks"
+      alt="Cody repository card with description and repository metadata"
     />
   </a>
   <a href="https://github.com/alpha-sml/causal-nlp-reasoning">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=alpha-sml&repo=causal-nlp-reasoning&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3"
       width="49%"
-      alt="Neuro-Symbolic Causal NLP Reasoning repository card with its description and repository metadata"
+      alt="Neuro-Symbolic Causal NLP Reasoning repository card with description and repository metadata"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=600&color=C084FC&center=true&vCenter=true&width=720&height=38&lines=CODY%3A+TASK+%E2%86%92+PLAN+%E2%86%92+EXECUTE+%E2%86%92+VERIFY;Verification+fails%3F+CLASSIFY+%E2%86%92+RECOVER;Reliable+AI+needs+tests%2C+boundaries%2C+and+evidence"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1900&pause=650&color=C084FC&center=true&vCenter=true&width=760&height=40&lines=CODY%3A+TASK+%E2%86%92+PLAN+%E2%86%92+EXECUTE+%E2%86%92+VERIFY;VERIFICATION+FAILS%3F+CLASSIFY+%E2%86%92+RECOVER;RELIABLE+AI+NEEDS+TESTS%2C+BOUNDARIES%2C+AND+EVIDENCE"
     alt="Animated Cody workflow: task, plan, execute, verify, and recover"
   />
 </p>
 
-✧ Areas of Interest
+> focus_areas
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=for-the-badge" alt="Machine learning" />
-  <img src="https://img.shields.io/badge/AI%20Systems-7C3AED?style=for-the-badge" alt="AI systems" />
-  <img src="https://img.shields.io/badge/Causal%20Inference-DB2777?style=for-the-badge" alt="Causal inference" />
-  <img src="https://img.shields.io/badge/Neuro--Symbolic%20AI-059669?style=for-the-badge" alt="Neuro-symbolic AI" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0EA5E9?style=for-the-badge" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/AI%20SYSTEMS-7C3AED?style=for-the-badge" alt="AI systems" />
+  <img src="https://img.shields.io/badge/CAUSAL%20INFERENCE-DB2777?style=for-the-badge" alt="Causal inference" />
+  <img src="https://img.shields.io/badge/NEURO--SYMBOLIC%20AI-059669?style=for-the-badge" alt="Neuro-symbolic AI" />
   <img src="https://img.shields.io/badge/LLMs-F59E0B?style=for-the-badge" alt="Large language models" />
 </p>
 
-🛠️ Technologies
+> toolchain
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -84,5 +78,5 @@ compatible with the original card URL parameters.
 </p>
 
 <p align="center">
-  <sub>Explore the repositories for implementation details, setup instructions, tests, and project-specific documentation.</sub>
+  <sub><code>END_OF_PROFILE // Explore the repositories for implementation details, setup instructions, tests, and project documentation.</code></sub>
 </p>
