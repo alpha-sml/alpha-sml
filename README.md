@@ -1,51 +1,41 @@
-<!-- Animated header -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Atharv%20Sharma&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36"
-    alt="Atharv Sharma — Computer Science and AI"
-    width="100%"
-  />
-</p>
+<h1 align="center">Atharv Sharma</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Engineering+%7C+Machine+Learning;Reliable+Agentic+Systems;Causal+Inference+%26+Neuro-Symbolic+AI"
-    alt="AI Engineering | Machine Learning | Reliable Agentic Systems | Causal Inference"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&height=42&lines=Computer+Science+%26+AI;Building+Reliable+AI+Systems;Machine+Learning+%7C+Causal+Reasoning"
+    alt="Computer Science and AI | Building Reliable AI Systems | Machine Learning and Causal Reasoning"
   />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-sharma-703735317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/alpha-sml">
-    <img src="https://img.shields.io/badge/GitHub-alpha--sml-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-alpha--sml-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 About
-I'm a Computer Science and AI student interested in building reliable AI systems and exploring machine learning, causal inference, and neuro-symbolic reasoning. I enjoy working across the full development cycle—from designing system behavior to testing and verification.
-Featured Projects
+I'm a Computer Science and AI student interested in building dependable AI systems and exploring machine learning, causal inference, and neuro-symbolic reasoning. I enjoy the engineering behind making AI useful: designing system behavior, creating reliable tooling, and verifying results rather than relying on completion claims alone.
+Selected Work
+Cody — Autonomous AI Coding Harness
+An AI coding harness that takes a programming task from planning through repository changes and verification. Cody uses structured plans and repository-aware tools, applies bounded file operations, runs discovered tests, checks changes against a baseline, and attempts targeted recovery when verification fails. It supports DeepSeek and Qwen evaluation providers and includes safeguards such as subprocess credential isolation and execution limits.
 <p align="center">
-  <a href="https://github.com/alpha-sml/Cody">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alpha-sml&repo=Cody&theme=tokyonight&hide_border=true" width="49%" alt="Cody repository card" />
-  </a>
-  <a href="https://github.com/alpha-sml/causal-nlp-reasoning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alpha-sml&repo=causal-nlp-reasoning&theme=tokyonight&hide_border=true" width="49%" alt="Neuro-Symbolic Causal NLP Reasoning repository card" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=650&height=34&lines=TASK+%E2%86%92+PLAN+%E2%86%92+EXECUTE+%E2%86%92+VERIFY;Verification+fails%3F+Classify+%E2%86%92+Recover+%E2%86%92+Retry"
+    alt="Cody workflow: task, plan, execute, verify, and recover"
+  />
 </p>
 
-<p align="center">
-  <a href="https://github.com/alpha-sml/CodeDex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alpha-sml&repo=CodeDex&theme=tokyonight&hide_border=true" width="49%" alt="CodeDex repository card" />
-  </a>
-</p>
 
-- Cody — An autonomous AI coding harness that plans tasks, operates on repositories, runs tests, verifies results, and attempts targeted recovery. Supports DeepSeek and Qwen evaluation providers.
-- Neuro-Symbolic Causal NLP Reasoning — A pipeline for extracting causal relations from scientific text and connecting them to acyclic graphs and Bayesian-network reasoning.
-- CodeDex — A full-stack coding tracker integrating competitive-programming platforms with a progress-focused interface.
-Areas of Interest
-Machine Learning · AI Systems · Causal Inference · Neuro-Symbolic AI · LLMs
+Focus: AI agents · Python · Tool orchestration · Test-driven verification · Security boundaries
+Neuro-Symbolic Causal NLP Reasoning
+A research-oriented pipeline for extracting cause-and-effect relationships from scientific text and translating the resulting relations into directed acyclic graphs and Bayesian networks. The project brings together classical relation-extraction methods, a deep-learning pipeline, graph validation, and interventional reasoning using causal inference concepts.
+
+Focus: Machine learning · NLP · Causal inference · NetworkX · Bayesian networks
+Interests
+Machine Learning · AI Systems · Causal Inference · Neuro-Symbolic AI · Large Language Models
 Technologies
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -53,16 +43,11 @@ Technologies
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpha-sml&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="165" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-sml&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages on GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=90&section=footer" width="100%" alt="" />
+  <sub>Explore the repositories above for implementation details, setup instructions, tests, and project-specific documentation.</sub>
 </p>
